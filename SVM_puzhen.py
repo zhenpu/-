@@ -1,4 +1,3 @@
-# 代码来源 BV1zz4y1r7dd（up：谁说菜鸟不会数据分析）
 import pandas as pd
 from sklearn import svm
 from sklearn.model_selection import train_test_split  # 用于数据集划分
